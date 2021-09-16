@@ -8,7 +8,7 @@
 
 2. Get your key file (.json)
 
-3. Save and set your key file path to system environment varible
+3. Save and set your key file path to system environment varible  
 (Variable name should be GOOGLE_APPLICATION_CREDENTIALS)
 
 ## Example
